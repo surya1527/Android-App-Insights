@@ -1,4 +1,4 @@
-# segwise_assignment
+# Android-App-Insights
 
 ## Table of Contents
 
@@ -19,7 +19,7 @@ To get started with the project, you'll need to clone the repository to your loc
 2. Use the following command to clone the repository:
 
    ```bash
-   git clone https://github.com/surya1527/segwise_assignment.git
+   git clone https://github.com/surya1527/Android-App-Insights.git
 
 ## getting-started
 ## prerequisites
@@ -41,7 +41,7 @@ Access the file from here
 **This code provide count of apps based on various combination of fields that we provide**
 
 After following all the above steps:
-1. Navigate to the project directory `cd segwise_assignment`
+1. Navigate to the project directory `cd Android-App-Insights`
 2. Run python script.
   - Enter the source file path to run the function (Here the source file path is the parameter to run the function source_file_info)<br>
 
